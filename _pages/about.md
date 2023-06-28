@@ -10,7 +10,7 @@ redirect_from:
 
 I am a rising senior at Cornell University studying Physics, Computer Science, and Math.
 
-My research interest is in observational cosmology. For the list of recent publications, visit [my arxiv](https://arxiv.org/a/wang_k_7.html).
+My research interest is in observational cosmology. I am very lucky to be involved in many project, which as line intensity mapping, gravitational waves, and trasient astronomy under amazing mentors. For the list of recent publications, visit [my research page](https://kailaiwang0592.github.io/kailaiwang.github.io/publications/) or [my arxiv page](https://arxiv.org/a/wang_k_7.html).
 
 I am also interested in machine learning, AI, and data science.
 
@@ -21,6 +21,10 @@ In my free time, I enjoy badminton, singing, soccer, and talking with friends.
 # Selected Experiences
 
 I am a SURF@JPL intern at the Jet Propulsion Laboratory, where I performed Nobel Prize winning work on probing the large-scale structures of the universe via line-intensity mapping.
+
+
+
+
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

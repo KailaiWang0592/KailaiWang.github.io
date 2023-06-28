@@ -11,7 +11,7 @@ title                    : "Kailai Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Kailai Wang"
 description              : &description "Kailai Wang's Personal Website"
-url                      : https://kailaiwang0592.github.io/kailaiwang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kailaiwang0592.github.io/kailaiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KailaiWang0592/kailaiwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ahttps://github.com/KailaiWang0592"
+  github           : "KailaiWang0592"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/kailai__wang/"
+  instagram        : "kailai__wang/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kailai-wang-8838571a9/"
-  orcid            : "https://orcid.org/0009-0000-4756-4223"
+  linkedin         : "kailai-wang-8838571a9/"
+  orcid            : "0009-0000-4756-4223"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

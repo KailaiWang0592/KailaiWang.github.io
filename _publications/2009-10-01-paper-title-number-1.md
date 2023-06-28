@@ -10,6 +10,13 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<img src='/images/limpy.png'>"
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/abs/2304.06748)
+
+
+Recommended citation:
+Roy, A., Valentín-Martínez, D., Wang, K., Battaglia, N., &
+van Engelen, A. 2023, LIMpy: A Semi-analytic Approach
+to Simulating Multi-line Intensity Maps at Millimetre
+Wavelengths. https://arxiv.org/abs/2304.06748
