@@ -5,10 +5,10 @@ main:
     url: /publications/
 
   - title: "CV"
-      url: /files/CV_Wang_05_2023.pdf
+    url: /files/CV_Wang_05_2023.pdf
 
-  - title: "Music and Writing"
-      url: /music_and_writing/
+  - title: "Fun"
+    url: /Publications/
 
 
   # - title: "Publications"
