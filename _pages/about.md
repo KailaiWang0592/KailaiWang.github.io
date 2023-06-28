@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+![My Image](/images/cmb.png)
+
+
 I am a rising senior at Cornell University studying Physics, Computer Science, and Math.
 
-My research interest is in observational cosmology. I am very lucky to be involved in many project, which as line intensity mapping, gravitational waves, and trasient astronomy under amazing mentors. For the list of recent publications, visit [my research page](https://kailaiwang0592.github.io/kailaiwang.github.io/publications/) or [my arxiv page](https://arxiv.org/a/wang_k_7.html).
+My research interest is in observational cosmology. I am very lucky to be involved in many projects such as line intensity mapping, gravitational waves, and trasient astronomy under the mentorship of very amazing mentors. For the list of recent publications, visit [my research page](https://kailaiwang0592.github.io/kailaiwang.github.io/publications/) or [my arxiv page](https://arxiv.org/a/wang_k_7.html).
 
 I am also interested in machine learning, AI, and data science.
 
