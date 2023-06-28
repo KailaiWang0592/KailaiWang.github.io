@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![My Image](/images/cmb.png)
+<!-- ![My Image](cmb.png) -->
 
 
 I am a rising senior at Cornell University studying Physics, Computer Science, and Math.
