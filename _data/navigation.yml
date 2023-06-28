@@ -1,22 +1,32 @@
 # main links links
 main:
-  - title: "Publications"
+
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+      url: /files/CV_Wang_05_2023.pdf
+
+  - title: "Music and Writing"
+      url: /music_and_writing/
+
+
+  # - title: "Publications"
+  #   url: /publications/
+  #
+  # - title: "Talks"
+  #   url: /talks/
+  #
+  # - title: "Teaching"
+  #   url: /teaching/
+  #
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  #
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  #
+
+  #
+  # - title: "Guide"
+  #   url: /markdown/
